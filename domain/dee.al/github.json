@@ -55,6 +55,10 @@
     "koneksi": "CNAME",
     "hostku": "chirag-adhvaryu",
     "target": "chirag-adhvaryu.github.io"
+},{
+  "koneksi": "CNAME",
+  "hostku": "verma-sanjeet",
+  "target": "verma-sanjeet-dev.github.io"
 }
     
 ]
