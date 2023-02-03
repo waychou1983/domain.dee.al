@@ -89,7 +89,17 @@
 "koneksi": "NS",
 "hostku": "minilandx",
 "target": "ns4.afraid.org"
-}
+},
+{
+ "koneksi": "NS",
+ "hostku": "shroud",
+ "target": "ns1.vercel-dns.com"
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "shroud",
+ "target": "ns2.vercel-dns.com"
+    }
 
 ]
   
