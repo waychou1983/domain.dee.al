@@ -55,6 +55,12 @@
     "koneksi": "CNAME",
     "hostku": "chirag-adhvaryu",
     "target": "chirag-adhvaryu.github.io"
+
+},{
+  "koneksi": "CNAME",
+  "hostku": "viral-gadhiya",
+  "target": "viral-gadhiya-dev.github.io"
+=======
 },
 
 {
@@ -65,6 +71,7 @@
    "koneksi": "CNAME",
   "hostku": "lakhani-palak",
   "target": "lakhani-palak-dev.github.io"
+
 }
     
 ]
