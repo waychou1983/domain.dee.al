@@ -58,9 +58,14 @@
 
 },{
   "koneksi": "CNAME",
+  "hostku": "verma-sanjeet",
+  "target": "verma-sanjeet-dev.github.io"
+
+},{
+  "koneksi": "CNAME",
   "hostku": "viral-gadhiya",
   "target": "viral-gadhiya-dev.github.io"
-=======
+
 },
 
 {
